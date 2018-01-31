@@ -1,0 +1,416 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  margin-bottom: 2em;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+}
+
+.page-marker {
+  border-bottom: 3px solid #5F4B8B;
+}
+
+.menu-bar {
+  padding-top: 1%;
+  border-bottom: 1px solid black;
+  margin-bottom: 1%;
+  height: 60px;
+}
+
+.menu-bar h1 {
+  float: left;
+  width: 400px;
+  margin: 0;
+  font-weight: 100;
+  font-size: 3em;
+}
+
+.menu-bar a {
+  text-decoration: none;
+  color: black;
+  padding-bottom: 2%;
+}
+
+.menu-bar a:hover {
+  color: #DA7168;
+}
+
+.menu-bar nav {
+  float: right;
+  width: 600px;
+  text-align: right;
+  padding-top: 30px;
+}
+
+.menu-bar nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-bar nav ul li {
+  display: inline;
+  margin: 0 0 0 4%;
+}
+
+.contact-img {
+  width: 49%;
+  float: left;
+}
+
+.contact-img img {
+  width: 70%;
+  float: right;
+}
+
+.contact-text {
+  text-align: left;
+  width: 49%;
+  margin: auto;
+  float: right;
+  padding-top: 8%;
+  font-size: 1.2em;
+}
+
+.contact-text a {
+  color: #DA7168;
+  text-decoration: none;
+}
+
+.contact-text a:hover {
+  color: #5F4B8B;
+}
+
+/****************** portfolio *******************/
+
+.portfolio-menu a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.portfolio-menu a:hover {
+  color: #DA7168;
+}
+
+.portfolio-menu {
+  float: right;
+  width: 500px;
+  text-align: center;
+  clear: both;
+  position: fixed;
+  right: 79px;
+  bottom: 15px;
+}
+
+.portfolio-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px 5px 10px 5px;
+  background-color: #5F4B8B;
+}
+
+.portfolio-menu ul li {
+  display: inline;
+  margin: 0 3% 0 3%;
+}
+
+.section {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  clear: both;
+  height: 100vh;
+}
+
+.section h2 {
+  font-size: 6em;
+  font-weight: 100;
+  margin: 0;
+}
+
+.port-thumb img {
+  width: 100%;
+}
+
+.port-thumb img:hover {
+  opacity: .5;
+}
+
+.port-thumb {
+  width: 33%;
+  display: inline-block;
+}
+
+.left-thumb {
+  float: left;
+}
+
+.right-thumb {
+  float: right;
+}
+
+.text-content {
+  width: 60%;
+  margin: auto;
+}
+
+.about-body-img {
+  width: 100%;
+}
+
+.about-image {
+  width: 50%;
+  float: left;
+  padding: 15px;
+  padding-top: 0;
+  padding-left: 0;
+}
+
+.text-content h2 {
+  text-align: center;
+  font-size: 3em;
+  font-weight: 100;
+}
+
+.text-content p {
+
+  text-align: left;
+}
+
+/************** project descriptions ****************/
+
+.project-text {
+  float: right;
+  width: 48%;
+  margin-bottom: 2.5%;
+}
+
+.project-text-2 {
+  float: left;
+  width: 48%;
+  margin-bottom: 2.5%;
+  text-align: right;
+}
+
+.project-text a {
+  text-decoration: none;
+  color: #DA7168;
+}
+
+.project-text a:hover {
+  color: #5F4B8B;
+}
+
+img.project-image-2 {
+  width: 48%;
+  float: right;
+  clear: both;
+  margin-bottom: 2.5%;
+}
+
+.project-description h2 {
+  text-align: center;
+  font-size: 4em;
+  font-weight: 100;
+}
+
+.project-description h3 {
+  font-size: 2em;
+  font-weight: 100;
+}
+
+img.project-image {
+  width: 48%;
+  float: left;
+  clear: both;
+  margin-bottom: 2.5%;
+}
+
+img.logo-redesign {
+  width: 48%;
+  float: right;
+  clear: both;
+  margin-bottom: 2.5%;
+}
+
+.logo-text {
+  float: left;
+  clear: both;
+  width: 48%;
+}
+
+.logo-text p {
+  float: left;
+}
+
+img#bbq {
+  clear: none;
+}
+
+/********************** index ***********************/
+
+.landing-image {
+  float: left;
+  width: 42%;
+  margin-right: 20px;
+}
+
+.landing-image img {
+  width: 100%;
+}
+
+.intro-text h1 {
+  font-weight: 300;
+  font-size: 2em;
+  padding-top: 15%;
+}
+
+/******************** responsive **********************/
+
+  @media screen and (max-width: 800px) {
+    .menu-bar {
+      height: 15%;
+      width: 100%;
+      padding-bottom: 3%;
+    }
+    .menu-bar h1 {
+      float: none;
+      margin: auto;
+      text-align: center;
+    }
+    .menu-bar nav {
+      float: none;
+      margin: auto;
+      width: 100%;
+      text-align: center;
+      padding-top: 5px;
+    }
+    .text-content {
+      width: 90%;
+    }
+    .contact-img {
+      width: 49%;
+      float: left;
+    }
+    .contact-img img {
+      width: 100%;
+    }
+    .contact-text {
+      width: 49%;
+      padding-top: 9%;
+    }
+    .portfolio-menu {
+      display: none;
+    }
+    .project-text {
+      float: none;
+      width: 100%;
+      margin: auto;
+    }
+    img.project-image {
+      float: none;
+      width: 100%;
+      margin: auto;
+    }
+    .project-text-2 {
+      float: none;
+      width: 100%;
+      margin: auto;
+    }
+    img.project-image-2 {
+      float: none;
+      width: 100%;
+      margin: auto;
+    }
+  }
+
+  @media screen and (min-width: 501px) {
+    .about-image-mobile {
+      display: none;
+    }
+    .landing-image-mobile {
+      display: none;
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    .container {
+      width: 100%;
+      margin: 0;
+    }
+    .menu-bar h1 {
+      width: 100%;
+    }
+    .section-header h2 {
+      font-size: 2em;
+    }
+    .text-content {
+      width: 100%;
+    }
+    .about-image {
+      display: none;
+    }
+    .about-image-mobile {
+      width: 100%;
+    }
+    .landing-image {
+      display: none;
+    }
+    .landing-image-mobile {
+      width: 100%
+    }
+    .intro-text h1 {
+      padding-top: 0;
+      text-align: center;
+    }
+    .text-content h2 {
+      display: none;
+    }
+    .port-thumb {
+      width: 95%;
+      margin: auto;
+      padding: 0;
+    }
+    .left-thumb {
+      float: none;
+    }
+    .right-thumb {
+      float: none;
+    }
+    .contact-img {
+      display: none;
+    }
+    .contact-text {
+      float: none;
+      width: 100%;
+      padding: 0;
+      font-size: 1em;
+    }
+    .portfolio-menu {
+      display: none;
+    }
+    .project-text {
+      float: none;
+      width: 100%;
+      margin: auto;
+      text-align: center;
+    }
+    img.project-image {
+      float: none;
+      width: 100%;
+      margin: auto;
+    }
+    .project-text-2 {
+      float: none;
+      width: 100%;
+      margin: auto;
+      text-align: center;
+    }
+    img.project-image-2 {
+      float: none;
+      width: 100%;
+      margin: auto;
+    }
+  }
