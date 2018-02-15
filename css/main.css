@@ -121,7 +121,6 @@ body {
   margin: auto;
   text-align: center;
   clear: both;
-
 }
 
 .section h2 {
@@ -141,7 +140,8 @@ body {
 .port-thumb {
   width: 33%;
   display: inline-block;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
+  margin-top: 25px;
 }
 
 .left-thumb {
@@ -176,9 +176,39 @@ body {
 }
 
 .text-content p {
-
   text-align: left;
 }
+
+.web span {
+  background-color: #5F4B8B;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  border-radius: 4px;
+}
+
+.journ span {
+  background-color: green;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  border-radius: 4px;
+}
+
+.photo span {
+  background-color: orange;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  border-radius: 4px;
+}
+
+.academics span {
+  background-color: blue;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  border-radius: 4px;
+}
+
+
+
 
 /************** project descriptions ****************/
 
