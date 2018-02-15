@@ -121,7 +121,7 @@ body {
   margin: auto;
   text-align: center;
   clear: both;
-  height: 100vh;
+
 }
 
 .section h2 {
@@ -141,6 +141,7 @@ body {
 .port-thumb {
   width: 33%;
   display: inline-block;
+  margin-bottom: 50px;
 }
 
 .left-thumb {
