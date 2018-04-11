@@ -25,13 +25,14 @@
   margin: auto;
   width: 70%;
   color: white;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-family: 'IBM Plex Serif,' serif;
 }
 
 .caption p {
   width: 75%;
   margin: 20px auto;
+  line-height: 1.4;
 
 }
 
@@ -51,8 +52,9 @@
   float: right;
   width: 50%;
   color: white;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   margin-bottom: 50px;
+  line-height: 1.4;
 }
 
 .buttons, .buttons2, buttons {
@@ -192,11 +194,11 @@ i.fa.fa-angle-down {
 
 .dropcap {
   color: #F00;
-  font-size: 5rem;
+  font-size: 4.5rem;
   float: left;
   line-height: 60px;
-  padding: 10px 10px 10px 10px;
-  margin: 0 10px 5px 0;
+  padding: 5px 10px 2px 10px;
+  margin: 0 10px 0px 0;
   border: 1px solid #F00;
 }
 
