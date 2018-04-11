@@ -1,0 +1,343 @@
+Offense #,Date,Day,Time,Day_Part,Location/Address,Premise,In_out,Call_Type,Race_subj,Race_color,Gender_subj,Age_subj,Injuries_subj,Weapon_subj,Ofc_present,no_ofc_shooters,Officer_Name,Rank_ofc,Race_ofc,Gender_ofc,Age_ofc,Jurisdiction,LE_Experience,Caliber_ofc,Weapon_ofc,Shots_ofc,Hits,How_Cleared,Location_1,Latitude,Longitude
+"13-5021565
+13-1370254",5/17/13 0:00,Fri,3:27,Night,6855 E US 290 Hwy ,Yard/Courtyard,Outside,shots fired,White,'#FOF',Male,26,None,gun,3,1,Ofc. Robert Barger,ofc,White,Male,45,APD,2,0.4,semi-auto,1,0,No Billed by Grand Jury,"6855 E US 290 Hwy
+Austin, TX
+",30.2332851,-97.8720017
+"13-5033792
+13-2071392",7/26/13 0:00,Fri,16:10,Evening,3500 CRAWFORD AVE Austin Texas,Under Bridge,Outside,onscene,Black,'#F00',Male,32,killed,none,1,1,"Det. Charles ""Trey"" Kleinert",det,White,Male,49,APD,19,0.4,semi-auto,1,1,True Billed on 5/12/2014 (pending further),"3500 CRAWFORD AVE
+Austin, TX
+",30.3068268,-97.7499249
+"12-5016942
+12-0961610",4/5/12 0:00,Thur,18:40,Evening,5200 Block Overbrook Dr,Yard/Courtyard,Outside,traffic stop,Black,'#F00',Male,35,killed,mic cord,1,1,Ofc. Eric Copeland,ofc,White,Male,36,APD,2,0.4,semi-auto,3,3,No Billed by Grand Jury,"5200 Block Overbrook Dr
+Austin, TX
+",30.2984904,-97.6848982
+"12-5043966
+12-2691696",9/25/12 0:00,Tues,20:39,Evening,2915 S IH 35 Svrd NB,Parking Lot,Outside,stolen vehicle,White,'#FOF',Male,42,killed,gun,2,1,Ofc. George Blanch,ofc,White,Male,36,APD,8,0.4,semi-auto,6,1,No Billed by Grand Jury,"2915 S IH 35
+Austin, TX
+",30.226682,-97.7438346
+"12-5047326
+12-2940313",10/20/12 0:00,Sat,2:10,Night,300 Blk E 6th St,Street,Outside,onscene,Black,'#F00',Female,24,None,vehicle,3,1,Ofc. Robert Krummel,ofc,White,Male,27,APD,3,0.4,semi-auto,4,0,No Billed by Grand Jury,"300 Blk E 6th St
+Austin, TX
+",30.2675403,-97.740159
+"11-5028251
+11-1502313",5/30/11 0:00,Mon,23:07,Night,800 Block E 8th St,Street,Outside,suspicious person/call,Black,'#F00',Male,20,killed,vehicle,2,1,Ofc. Nathan Wagner,ofc,White,Male,28,APD,3,0.4,semi-auto,5,4,No Billed by Grand Jury,"800 Block E 8th St
+Austin, TX
+",30.2675049,-97.7335121
+"11-5028251
+11-1502313",5/30/11 0:00,Mon,23:07,Night,800 Block E 8th St,Street,Outside,suspicious person/call,Black,'#F00',Male,16,shot (injured only),vehicle,2,1,Ofc. Nathan Wagner,ofc,White,Male,0,APD,3,0.4,semi-auto,5,4,No Billed by Grand Jury,"800 Block E 8th St
+Austin, TX
+",30.2675049,-97.7335121
+"11-5060110
+11-3621220",12/28/11 0:00,Wed,17:19,Evening,7800 N IH 35 Svrd SB,Parking Lot,Outside,narcotics,Black,'#F00',Male,32,None,vehicle,4,1,Det. Tom Hugonnett,det,White,Male,44,APD,18,0.4,semi-auto,2,0,No Billed by Grand Jury,"7800 N IH 35
+Austin, TX
+",30.3405844,-97.7003673
+07-3110298,11/7/07 0:00,Wed,4:29,Night,4509 E St Elmo Apt 3304,Residence,Inside,hostage/barricade,White,'#FOF',Male,37,shot (injured only),gun,2,1,Ofc. James Alexander,ofc,White,Male,39,APD,9,0.308,rifle,2,1,No Billed by Grand Jury,"4509 E St Elmo Apt 3304
+Austin, TX
+",30.2051583,-97.7380631
+06-0151964,1/15/06 0:00,Sun,22:22,Night,500 Block E 9th St,Street,Outside,robbery,Black,'#F00',Male,20,None,gun,1,1,Ofc. James Harvel,ofc,White,Male,31,APD,5,0.4,semi-auto,1,1,not presented to grand jury (DA declined),"500 Block E 9th St
+Austin, TX
+",30.2695941,-97.7371944
+06-5007317,2/8/06 0:00,Wed,14:30,Evening,213 Loesch Dr,Residence,Outside,warrant,White,'#FOF',Male,47,shot (injured only),vehicle,3,2,Ofc. Robert Soto,ofc,Hispanic,Male,36,APD,9,0.4,semi-auto,1,2,unk - TX Rangers and Elgin PD investigated incident,"213 Loesch Dr
+Austin, TX
+",30.3578062,-97.3837562
+06-5007317,2/8/06 0:00,Wed,14:30,Evening,213 Loesch Dr,Residence,Outside,warrant,White,'#FOF',Male,47,shot (injured only),vehicle,3,2,Ofc. Christopher Limmer,ofc,White,Male,36,APD,11,0.4,semi-auto,1,,unk - TX Rangers and Elgin PD investigated incident,"213 Loesch Dr
+Austin, TX
+",30.3578062,-97.3837562
+05-1602072,6/9/05 0:00,Thur,23:02,Night,5100 Block Quicksilver Blvd,Street,Outside,traffic stop,Hispanic,'#0F0',Male,18,killed,physical force,3,1,Ofc. Julie Schroeder,ofc,White,Female,36,APD,7,9mm,semi-auto,1,1,No Billed by Grand Jury,"5100 Block Quicksilver Blvd
+Austin, TX
+",30.1728359,-97.7534789
+03-921650184,6/14/03 0:00,Sat,1:27,Night,1700 Block Tillery St,Street,Outside,stolen vehicle,Black,'#F00',Male,20,killed,vehicle,1,1,Ofc. Scott Glasgow,ofc,White,Male,29,APD,3,0.4,semi-auto,6,5,True Billed - Indicted for crim. neg. homicide. Dismissed by D.A.,"1700 Block Tillery St
+Austin, TX
+",30.2806504,-97.7012636
+03-1671463,6/16/03 0:00,Mon,18:53,Evening,11149 Research Svrd NB,Business,Inside,armed subject,Hispanic,'#0F0',Male,32,None,gun,6,1,Ofc. Tim Hoppock,ofc,White,Male,27,APD,1,0.4,semi-auto,1,0,not presented to grand jury (DA declined),"11149 Research Blvd
+Austin, TX
+",30.4070871,-97.7438909
+02-921141728,4/24/02 0:00,Wed,22:52,Night,1200 Block W Live Oak St,Parking Lot,Outside,shots fired,White,'#FOF',Male,32,None,vehicle,1,1,ACC PD Ofc. Gerald Umphres,other agency - ofc,White,Male,44,ACC,2,9mm,semi-auto,unk,unk,unk,"1200 Block W Live Oak St
+Austin, TX
+",30.2470248,-97.7653045
+02-922610629,9/18/02 0:00,Wed,9:49,Day,7707 S IH 35 Svrd NB #731,Residence,Inside,burglary,Black,'#F00',Male,22,shot (injured only),gun,1,1,Ofc. Robert Bohannan,ofc,White,Male,44,APD,17,9mm,semi-auto,5,1,No Billed by Grand Jury,"7707 S IH 35
+Austin, TX
+",30.1786395,-97.7748203
+01-920451656,2/14/01 0:00,Wed,23:01,Night,4900 Block Craigwood Dr,Street,Outside,pursuit,Hispanic,'#0F0',Female,48,shot (injured only),none,3,1,Ofc. Brendon Hanly,ofc,White,Male,27,APD,3,0.4,semi-auto,1,2,No Billed by Grand Jury,"4900 Block Craigwood Dr
+Austin, TX
+",30.2843798,-97.6598712
+01-920451656,2/14/01 0:00,Wed,23:01,Night,4900 Block Craigwood Dr,Street,Outside,pursuit,Hispanic,'#0F0',Male,34,shot (injured only),none,3,1,Ofc. Brendon Hanly,ofc,White,Male,0,APD,3,0.4,semi-auto,1,2,No Billed by Grand Jury,"4900 Block Craigwood Dr
+Austin, TX
+",30.2843798,-97.6598712
+01-921940025,7/13/01 0:00,Fri,0:10,Night,1500 Block Nash Hernandez Sr Rd,Park,Outside,traffic stop,White,'#FOF',Male,43,None,vehicle,1,1,Ofc. Adam Soliz,other agency - ofc,Hispanic,Male,28,Park Police,4,0.4,semi-auto,3,3,No Billed by Grand Jury,"1500 Block Nash Hernandez Sr Rd
+Austin, TX
+",30.2512565,-97.7326557
+00-922280547,8/15/00 0:00,Wed,10:04,Day,10125 N IH 35 Svrd NB,Business,Inside,NA - off duty,Asian,'#00F',Male,25,killed,gun,1,1,Ofc. Isidro Torres,other agency - ofc,Hispanic,Male,27,Jonestown PD,unk,0.45,semi-auto,6,2,No Billed by Grand Jury,"10125 N IH 35
+Austin, TX
+",30.4145175,-97.6734961
+01-920971339,4/7/01 0:00,Sat,15:57,Evening,6814 Wake Forest Ln,Yard/Courtyard,Outside,stabbing,Black,'#F00',Male,19,shot (injured only),knives,1,1,Ofc. Robert Simmons,ofc,Black,Male,46,APD,21,0.357,revolver,6,1,No Billed by Grand Jury,"6814 Wake Forest Ln
+Austin, TX
+(30.314186, -97.669082)",30.3141352,-97.6692871
+"14-5012166
+14-0770816",3/18/14 0:00,Tues,12:24,Day,6301 Berkman Dr.,Yard/Courtyard,Outside,disturbance,Black,'#F00',Male,22,shot (injured only),air pistol (BB gun),1,1,Sgt. Greg White,sgt,White,Male,39,APD,16,0.4,semi-auto,3,2,No Billed by Grand Jury,"6301 Berkman Dr.
+Austin, TX
+(30.316824, -97.690893)",30.3165128,-97.6904735
+"10-5058733
+10-5058741
+10-5058742
+10-3060261",11/2/10 0:00,Tues,5:17,Night,12320 Tomanet Trail,Residence,Inside,disturbance,Asian,'#00F',Male,26,killed,gun,5,2,Ofc. Jason Martin,ofc,White,Male,30,APD,3,0.4,semi-auto,2,4,No Billed by Grand Jury,"12320 Tomanet Trail
+Austin, TX
+(30.414961, -97.703313)",30.4150602,-97.7035925
+01-921621274,6/11/01 0:00,Mon,18:53,Evening,2425 Cromwell Cir,Parking Lot,Outside,narcotics,Black,'#F00',Male,30,shot (injured only),gun,5,1,Ofc. Lorenzo Cyphers,ofc,Black,Male,34,APD,8,0.45,semi-auto,1,1,No Billed by Grand Jury,"2425 Cromwell Cir
+Austin, TX
+(30.225931, -97.720391)",30.2256743,-97.7223381
+"11-5038917
+11-2271207",8/15/11 0:00,Mon,16:50,Evening,3630 S Congress Ave,Street,Outside,robbery,White,'#FOF',Male,21,None,gun,3,2,Ofc. Eduardo Pena,ofc,Hispanic,Male,33,APD,3,0.4,semi-auto,6,0,No Billed by Grand Jury,"3630 S Congress Ave
+Austin, TX
+(30.227169, -97.761643)",30.2269952,-97.7620581
+09-0431751,2/12/09 0:00,Thur,17:51,Evening,9218 Balcones Club Dr,Parking Lot,Outside,warrant,White,'#FOF',Male,42,shot (injured only),gun,4,1,Dep. Darren Sartin (U.S. Marshal),other - dep,White,Male,40,US Marshal,14,0.4,semi-auto,3,2,No Billed by Grand Jury,"9218 Balcones Club Dr
+Austin, TX
+(30.443276, -97.787577)",30.4419341,-97.7872372
+"13-5039952
+13-2430035",8/31/13 0:00,Sat,0:13,Night,9416 Neils Thompson Dr,Parking Lot,Outside,burglary,Hispanic,'#0F0',Male,46,injured,vehicle,1,1,Ofc. Shane Cunningham,ofc,Asian,Male,35,APD,11,0.4,semi-auto,15,5,No Billed by Grand Jury,"9416 Neils Thompson Dr
+Austin, TX
+(30.382404, -97.733068)",30.3827019,-97.7336075
+"11-5052201
+11-3090370",11/5/11 0:00,Sat,3:10,Night,810 E Slaughter Ln,Parking Lot,Outside,disturbance,Hispanic,'#0F0',Male,34,None,radio face plate,2,1,Ofc. Derrick Bowman,ofc,White,Male,28,APD,4,0.223,rifle,2,0,No Billed by Grand Jury,"810 E Slaughter Ln
+Austin, TX
+(30.160197, -97.776559)",30.1599925,-97.7761596
+11-3390300,12/5/11 0:00,Mon,6:53,Day,3708 Aspen Creek Pkwy,Street,Outside,burglary,White,'#FOF',Male,26,shot (injured only),vehicle,10,2,TCSO Dep. Tracy Stirman,other - dep,White,Male,46,TCSO,8,0.4,semi-auto,3,,No Billed by Grand Jury,"3708 Aspen Creek Pkwy
+Austin, TX
+(30.181796, -97.856067)",30.1819487,-97.8558569
+07-1121670,4/22/07 0:00,Sun,18:54,Evening,6103 Hyside Dr,Yard/Courtyard,Outside,disturbance,Black,'#F00',Male,23,shot (injured only),gun,1,1,Cpl. Michael Barger,cpl,White,Male,40,APD,14,9mm,semi-auto,4,2,No Billed by Grand Jury,"6103 Hyside Dr
+Austin, TX
+(30.306008, -97.671336)",30.3061286,-97.6710465
+"14-5003813
+14-0250881",1/25/14 0:00,Sat,13:42,Day,9400 N. Lamar Blvd,Parking Lot,Outside,onscene,Hispanic,'#0F0',Male,22,None,vehicle,1,1,Ofc. John Gabrielson,ofc,White,Male,39,APD,9,0.4,semi-auto,3,0,No Billed by Grand Jury,"9400 N. Lamar Blvd
+Austin, TX
+(30.363177, -97.696992)",30.3633844,-97.6968414
+"13-5052096
+13-3141499",11/10/13 0:00,Sun,21:17,Evening,2900 Cole St #204,Yard/Courtyard,Inside,check welfare,Hispanic,'#0F0',Male,30,shot (injured only),gun,9,,Ofc. Leonardo Cardenas,ofc,Hispanic,Male,34,APD,4,0.223,rifle,1,,No Billed by Grand Jury,"2900 Cole St #204
+Austin, TX
+(30.287719, -97.725129)",30.2878759,-97.7255032
+"09-5052963
+09-2280484",8/16/09 0:00,Sun,3:06,Night,1515 Wickersham Ln,Parking Lot,Outside,traffic stop,White,'#FOF',Male,25,killed,vehicle,3,2,Agt. John Altum (TABC),other - agt,White,Male,36,TABC,16,0.4,semi-auto,16,4,No Billed by Grand Jury,"1515 Wickersham Ln
+Austin, TX
+(30.235447, -97.718959)",30.2349921,-97.7182435
+00-920250387,1/25/00 0:00,Tues,8:08,Day,6401 Airport Blvd,Parking Lot,Outside,stolen vehicle,Black,'#F00',Male,33,shot (injured only),vehicle,4,3,Ofc. Raymond Smyth,ofc,White,Male,27,APD,5,0.45,semi-auto,5,3,No Billed by Grand Jury,"6401 Airport Blvd
+Austin, TX
+(30.327449, -97.716056)",30.3278741,-97.7154892
+01-922381780,8/26/01 0:00,Sun,22:36,Night,801 Shade Tree Dr,Residence,Inside,shots fired,White,'#FOF',Male,45,killed (self-inflicted),gun,3,1,Ofc. Brendon Hanly,ofc,White,Male,27,APD,4,12 gauge,shotgun,1,0,No Billed by Grand Jury,"801 Shade Tree Dr
+Austin, TX
+(30.159962, -97.815613)",30.1597652,-97.8154023
+14-2511591,9/8/14 0:00,Mon,19:38,Evening,13712 Maye Pl.,Residence,Outside,warrant,White,'#FOF',Male,24,killed,gun,3,3,Det. Scott Glasgow,det,White,Male,40,APD,14,0.4,semi-auto,9,2,unk - TCSO investigation,"13712 Maye Pl.
+Austin, TX
+(30.426212, -97.67312)",30.4262351,-97.6733995
+06-0011398,1/1/06 0:00,Sun,6:45,Day,5402 Lark Creek Dr,Residence,Inside,hostage/barricade,Hispanic,'#0F0',Male,43,killed,gun,8,2,Ofc. Jessie Carrillo,ofc,Hispanic,Male,33,APD,6,0.308,rifle,1,2,No Billed by Grand Jury,"5402 Lark Creek Dr
+Austin, TX
+(30.194748, -97.735462)",30.1949338,-97.7355382
+"13-5048070
+13-5048073
+13-2911294",10/18/13 0:00,Fri,15:20,Evening,1609 Cripple Creek Dr,Yard/Courtyard,Outside,shots fired,White,'#FOF',Male,44,shot (injured only),rifle,5,3,Ofc. Michael Decker,ofc,White,Male,30,APD,5,0.223,rifle,2,1,No Billed by Grand Jury,"1609 Cripple Creek Dr
+Austin, TX
+(30.379773, -97.704626)",30.3797675,-97.7049074
+07-2391583,8/27/07 0:00,Mon,18:03,Evening,4404 E Oltorf St #7202,Residence,Inside,stabbing,Black,'#F00',Male,24,killed,knife,2,1,Ofc.  Michael Metcalf,ofc,White,Male,34,APD,9,0.4,semi-auto,2,2,No Billed by Grand Jury,"4404 E Oltorf St #7202
+Austin, TX
+(30.226795, -97.726349)",30.2272601,-97.7258262
+00-922260310,8/13/00 0:00,Sun,2:34,Night,3500 Burleson Rd,Woods,Outside,stabbing,White,'#FOF',Male,51,shot (injured only),knife,5,1,Ofc. James Thomsen,ofc,White,Male,26,APD,2,0.45,semi-auto,1,1,No Billed by Grand Jury,"3500 Burleson Rd
+Austin, TX
+(30.216578, -97.734294)",30.2165963,-97.7343028
+"13-5017606
+13-1131720",4/23/13 0:00,Tues,20:40,Evening,706 Valdez St,Yard/Courtyard,Outside,disturbance,White,'#FOF',Male,54,killed,rifle,4,4,Ofc. Ricardo Cardona,ofc,Hispanic,Male,29,APD,0.1,0.4,semi-auto,8,7,No Billed by Grand Jury,"706 Valdez St
+Austin, TX
+(30.234556, -97.69197)",30.2347254,-97.6922122
+02-921620377,6/11/02 0:00,Tues,8:35,Day,2005 Rosewood Ave #2104,Yard/Courtyard,Outside,disturbance,Black,'#F00',Female,23,killed,knife,3,1,Ofc. John Coffey,ofc,White,Male,42,APD,16,0.4,semi-auto,1,1,No Billed by Grand Jury,"2005 Rosewood Ave #2104
+Austin, TX
+(30.269922, -97.717667)",30.2702725,-97.7168272
+00-920161338,1/16/00 0:00,Sun,20:25,Evening,700 W Longspur Blvd,Parking Lot,Outside,NA - off duty,White,'#FOF',Male,21,injured,vehicle,1,1,Ofc. Rogers A. Cantu,other agency - ofc,White,Male,43,Granger PD,2,0.4,semi-auto,unk,0,unk,"700 W Longspur Blvd
+Austin, TX
+(30.366867, -97.69299)",30.366867,-97.69197
+"13-5017606
+13-1131720",4/23/13 0:00,Tues,20:40,Evening,706 Valdez St,Yard/Courtyard,Outside,disturbance,White,'#FOF',Male,54,killed,rifle,4,4,Ofc. Donovan Hunter,ofc,White,Male,31,APD,2,5.56,rifle,4,7,No Billed by Grand Jury,"706 Valdez St
+Austin, TX
+(30.234556, -97.69197)",30.234556,-97.69197
+"10-5058733
+10-5058741
+10-5058742
+10-3060261",11/2/10 0:00,Tues,6:10,Day,12331 N Mopac Expy Svrd NB,Parking Lot,Outside,disturbance,Asian,'#00F',Male,27,killed,gun,5,2,Ofc. Will Ray,ofc,White,Male,25,APD,3,12 gauge,shotgun,4,4,No Billed by Grand Jury,"12331 N Mopac Expy Svrd NB
+Austin, TX
+(30.416971, -97.704931)",30.416971,-97.704931
+05-3040755,10/31/05 0:00,Mon,11:04,Day,8204 Sam Rayburn Dr #A,Residence,Inside,suspicious person/call,Black,'#F00',Male,43,shot (injured only),knife,3,1,Ofc. William Heilman,ofc,White,Male,31,APD,4,9mm,semi-auto,1,1,No Billed by Grand Jury,"8204 Sam Rayburn Dr #A
+Austin, TX
+(30.346612, -97.699908)",30.346612,-97.699908
+07-1200539,4/30/07 0:00,Mon,9:06,Day,12138 N Lamar Blvd,Park,Outside,onscene,White,'#FOF',Male,36,shot (injured only),vehicle,2,1,Ofc. David Rodriguez,other agency - ofc,Hispanic,Male,38,Park Police,2,0.4,semi-auto,7,1,No Billed by Grand Jury,"12138 N Lamar Blvd
+Austin, TX
+(30.39842, -97.679478)",30.398442,-97.679478
+"09-5053921
+09-1310302",5/11/09 0:00,Mon,5:07,Night,6409 Springdale Rd,Parking Lot,Outside,onscene,Black,'#F00',Male,21,shot (injured only),gun,3,1,,,,,0,APD,8,0.4,semi-auto,5,3,No Billed by Grand Jury,"6409 Springdale Rd
+Austin, TX
+(30.307201, -97.669664)",30.307201,-97.669664
+01-921881468,7/7/01 0:00,Sat,20:35,Evening,6001 Airport Blvd,Parking Lot,Outside,narcotics,Black,'#F00',Male,30,None,vehicle,2,1,Det. Albert Berton,det,Hispanic,Male,34,APD,9,0.45,semi-auto,4,0,No Billed by Grand Jury,"6001 Airport Blvd
+Austin, TX
+(30.324209, -97.715758)",30.324209,-97.715758
+00-920250387,1/25/00 0:00,Tues,8:08,Day,6401 Airport Blvd,Parking Lot,Outside,stolen vehicle,Black,'#F00',Male,33,shot (injured only),vehicle,4,3,Ofc. Steven Scheurer,ofc,White,Male,30,APD,5,12 gauge,shotgun,2,3,No Billed by Grand Jury,"6401 Airport Blvd
+Austin, TX
+(30.327449, -97.716056)",30.327449,-97.716056
+"10-2740401
+10-2741075",10/1/10 0:00,Fri,5:53,Night,801 E William Cannon Dr #135,Business,Outside,burglary,Hispanic,'#0F0',Male,16,killed,gun,2,1,Ofc. Derrick Bowman,ofc,White,Male,27,APD,3,0.4,semi-auto,14,4,No Billed by Grand Jury,"801 E William Cannon Dr #135
+Austin, TX
+(30.191158, -97.772562)",30.191158,-97.772562
+00-920250387,1/25/00 0:00,Tues,8:08,Day,6401 Airport Blvd,Parking Lot,Outside,stolen vehicle,Black,'#F00',Male,33,shot (injured only),vehicle,4,3,Ofc. Scott Stanfield,ofc,White,Male,33,APD,4,0.4,semi-auto,2,3,No Billed by Grand Jury,"6401 Airport Blvd
+Austin, TX
+(30.327449, -97.716056)",30.32749,-97.716056
+"09-5053921
+09-1310302",5/11/09 0:00,Mon,5:07,Night,6409 Springdale Rd,Parking Lot,Outside,onscene,Black,'#F00',Male,18,killed,gun,3,1,Ofc. Leonardo Quintana,ofc,Hispanic,Male,33,APD,8,0.4,semi-auto,5,3,No Billed by Grand Jury,"6409 Springdale Rd
+Austin, TX
+(30.307201, -97.669664)",30.307201,-97.669664
+02-920951567,4/5/02 0:00,Fri,20:50,Evening,8409 N Lamar Blvd,Parking Lot,Outside,traffic stop,Black,'#F00',Male,21,None,vehicle,2,1,Ofc. Richard Guajardo,ofc,Hispanic,Male,26,APD,4,9mm,semi-auto,1,0,not presented to grand jury (DA declined),"8409 N Lamar Blvd
+Austin, TX
+(30.353118, -97.705925)",30.353118,-97.705925
+"09-5052963
+09-2280484",8/16/09 0:00,Sun,3:06,Night,1515 Wickersham Ln,Parking Lot,Outside,traffic stop,White,'#FOF',Male,25,killed,vehicle,3,2,Agt. Joe Cronin (TABC),other - agt,White,Male,31,TABC,9,0.45,semi-auto,3,4,No Billed by Grand Jury,"1515 Wickersham Ln
+Austin, TX
+(30.235447, -97.718959)",30.235447,-97.718959
+07-1891793,7/8/07 0:00,Sun,20:23,Evening,7309 S Pleasant Valley Rd #B,Street,Outside,shots fired,Hispanic,'#0F0',Male,31,shot (injured only),vehicle,2,2,Ofc. David Nordstrom,ofc,White,Male,31,APD,8,12 gauge,shotgun,3,5,No Billed by Grand Jury,"7309 S Pleasant Valley Rd #B
+Austin, TX
+(30.171774, -97.752462)",30.171774,-97.752462
+04-3121360,11/7/04 0:00,Mon,17:35,Evening,4800 Teri Rd,Street,Outside,robbery,Black,'#F00',Male,26,None,gun,1,1,Ofc. Scott Lando,ofc,White,Male,42,APD,3,0.45,semi-auto,1,0,not presented to grand jury (DA declined),"4800 Teri Rd
+Austin, TX
+(30.195557, -97.741099)",30.195557,-97.741099
+01-922880197,10/15/01 0:00,Mon,3:27,Night,2611 Bee Caves Rd,Parking Lot,Outside,BOV,Hispanic,'#0F0',Male,Unknown,unk,vehicle,2,2,Ofc. Gary Shaw,ofc,White,Male,32,APD,4,0.4,semi-auto,7,0,No Billed by Grand Jury,"2611 Bee Caves Rd
+Austin, TX
+(30.267081, -97.785185)",30.267081,-97.785185
+"09-5006129
+09-0302652",1/30/09 0:00,Fri,22:46,Night,4714 S Congress Ave,Business,Outside,burglary,Hispanic,'#0F0',Male,35,injured,gun,2,1,Ofc. Jeffrey Kirkpatrick,ofc,White,Male,36,APD,6,0.45,semi-auto,1,0,not presented to grand jury (DA declined),"4714 S Congress Ave
+Austin, TX
+(30.214181, -97.769479)",30.214181,-97.769479
+"12-5005552
+12-0341696",2/3/12 0:00,Fri,21:33,Evening,7201 Wood Hollow Dr,Parking Lot,Outside,check welfare,White,'#FOF',Male,34,shot (injured only),gun,16,1,Ofc. Shaun Donovan,ofc,White,Male,33,APD,2,0.4,semi-auto,2,1,No Billed by Grand Jury,"7201 Wood Hollow Dr
+Austin, TX
+(30.354926, -97.752186)",30.354926,-97.752186
+11-3390300,12/5/11 0:00,Mon,6:53,Day,3708 Aspen Creek Pkwy,Street,Outside,burglary,White,'#FOF',Male,26,shot (injured only),vehicle,10,2,Ofc. Christopher Allen,ofc,White,Male,34,APD,6,9mm,semi-auto,14,3,No Billed by Grand Jury,"3708 Aspen Creek Pkwy
+Austin, TX
+(30.181796, -97.856067)",30.181796,-97.856067
+"13-5048070
+13-5048073
+13-2911294",10/18/13 0:00,Fri,15:20,Evening,1609 Cripple Creek Dr,Yard/Courtyard,Outside,shots fired,White,'#FOF',Male,44,shot (injured only),rifle,5,3,Ofc. Cecil Jones,ofc,Black,Male,52,APD,20,0.223,rifle,1,1,No Billed by Grand Jury,"1609 Cripple Creek Dr
+Austin, TX
+(30.379773, -97.704626)",30.379773,-97.704626
+00-923590021,12/24/00 0:00,Sun,0:09,Night,9515 N Lamar Blvd,Business,Outside,NA - off duty,Hispanic,'#0F0',Male,Unknown,unk,vehicle,1,1,Dep. Jimmie Ortiz,other - dep,Hispanic,Male,32,"Travis Co Constable, Precinct 4",unk,0.4,semi-auto,4,unk,not presented to grand jury (DA declined),"9515 N Lamar Blvd
+Austin, TX
+(30.364918, -97.695974)",30.364918,-97.695974
+"14-3320160
+14-5052475",11/28/14 0:00,Fri,2:22,Night,715 E 8th St.,Street,Outside,shots fired,White,'#FOF',Male,49,killed,rifle,10,1,Sgt. Adam Johnson,sgt,White,Male,39,APD,15,0.4,semi-auto,1,1,Pending,"715 E 8th St.
+Austin, TX
+(30.267809, -97.734593)",30.267809,-97.734593
+07-1891793,7/8/07 0:00,Sun,20:23,Evening,,Street,,shots fired,Hispanic,'#0F0',Male,31,shot (injured only),vehicle,2,2,Ofc. Marlon Goodloe,ofc,Black,Male,35,APD,0.1,0.4,semi-auto,4,5,No Billed by Grand Jury,"Austin, TX
+(30.264979, -97.746598)",30.264979,-97.746598
+"13-5019982
+13-1280390",5/8/13 0:00,Wed,7:51,Day,3300 E 12th St,Street,Outside,traffic stop,White,'#FOF',Male,55,None,none,1,1,Ofc. Justin Boehm,ofc,White,Male,26,APD,5,0.4,semi-auto,1,0,No Billed by Grand Jury,"3300 E 12th St
+Austin, TX
+(30.277027, -97.699256)",30.277027,-97.699256
+02-923200784,11/16/02 0:00,Sat,11:37,Day,2907 W Slaughter Ln #A,Street,Outside,kidnapping,Hispanic,'#0F0',Male,19,shot (injured only),broken bottle,1,1,TCSO Dep. Marc Taub,other - dep,White,Male,32,TCSO,6,9mm,semi-auto,1,1,unk,"2907 W Slaughter Ln #A
+Austin, TX
+(30.178455, -97.839507)",30.178455,-97.839507
+07-1540634,6/3/07 0:00,Sun,4:21,Night,1175 Harvey St,Yard/Courtyard,Outside,armed subject,Black,'#F00',Male,25,killed,gun,1,1,Sgt. Michael Olsen,sgt,White,Male,38,APD,12,0.4,semi-auto,4,2,No Billed by Grand Jury,"1175 Harvey St
+Austin, TX
+(30.275236, -97.702274)",30.275236,-97.702274
+"09-5072203
+09-3620161",12/28/09 0:00,Mon,2:54,Night,11815 Johnny Weismuller Ln,Residence,Outside,disturbance,Black,'#F00',Male,38,killed,gun,3,2,Dep. Theodore Ramsey (TCSO),other - dep,White,Male,36,TCSO,9,12 gauge,shotgun,1,1,No Billed by Grand Jury,"11815 Johnny Weismuller Ln
+Austin, TX
+(30.151187, -97.843453)",30.151187,-97.843453
+"13-5002063
+13-0141039",1/14/13 0:00,Mon,15:30,Evening,7112 Ed Bluestein Blvd SVRD SB,Parking Lot,Outside,shots fired,Black,'#F00',Male,51,None,gun,2,2,Ofc. Aaron Pippin,ofc,White,Male,46,APD,22,0.4,semi-auto,3,,No Billed by Grand Jury,"7112 Ed Bluestein Blvd SVRD SB
+Austin, TX
+(30.312799, -97.662825)",30.312799,-97.662825
+04-3230613,11/18/04 0:00,Tues,13:17,Day,3800 S Mopac Expy NB,Street,Outside,pursuit,White,'#FOF',Male,35,None,vehicle,4,1,Ofc. Gregory White,ofc,White,Male,30,APD,7,0.45,semi-auto,3,0,not presented to grand jury (DA declined),"3800 S Mopac Expy NB
+Austin, TX
+(30.24491, -97.808627)",30.24491,-97.808627
+"14-3320160
+14-5052475",11/28/14 0:00,Fri,2:22,Night,715 E 8th St.,Street,Outside,shots fired,White,'#FOF',Male,49,killed,rifle,10,1,Sgt. Adam Johnson,sgt,White,Male,39,APD,15,0.4,semi-auto,1,1,Pending,"715 E 8th St.
+Austin, TX
+(30.267809, -97.734593)",30.267809,-97.734593
+06-0011398,1/1/06 0:00,Sun,6:45,Day,5402 Lark Creek Dr,Residence,Inside,hostage/barricade,Hispanic,'#0F0',Male,43,killed,gun,8,2,Ofc. Jeff Dwyer,ofc,White,Male,34,APD,8,0.308,rifle,1,,No Billed by Grand Jury,"5402 Lark Creek Dr
+Austin, TX
+(30.194748, -97.735462)",30.194748,-97.735462
+04-2900302,10/16/04 0:00,Sat,2:32,Night,6607 Brodie Ln,Parking Lot,Outside,NA - off duty,Unknown,#000',Unknown,Unknown,unk,vehicle,1,1,Ofc. Mark Donnan Keithly,other agency - ofc,White,Male,41,TPWD,2,0.4,semi-auto,1,unk,unk,"6607 Brodie Ln
+Austin, TX
+(30.217216, -97.828224)",30.217216,-97.828224
+05-3431923,12/10/05 0:00,Fri,20:14,Evening,4800 Ribbecke Ave,Street,Outside,traffic stop,Hispanic,'#0F0',Male,22,None,gun,2,1,Ofc. Reynaldo Canizales,ofc,Hispanic,Male,33,APD,3,0.4,semi-auto,1,1,No Billed by Grand Jury,"4800 Ribbecke Ave
+Austin, TX
+(30.279827, -97.683613)",30.279827,-97.683613
+02-922171076,8/5/02 0:00,Mon,15:41,Evening,1900 W Ben White Blvd Svrd WB,Street,Outside,robbery,Black,'#F00',Male,24,shot (injured only),gun,3,1,Ofc. Jason Bryant,ofc,White,Male,29,APD,5,0.4,semi-auto,3,2,No Billed by Grand Jury,"1900 W Ben White Blvd Svrd WB
+Austin, TX
+(30.229915, -97.787185)",30.229915,-97.78185
+"10-5068185
+10-3572205",12/23/10 0:00,Thur,22:53,Night,13006 Campos Dr,Street,Outside,traffic stop,White,'#FOF',Male,35,killed,knife,2,1,Ofc. Frank Wilson V,ofc,Black,Male,36,APD,6,0.4,semi-auto,1,1,No Billed by Grand Jury,"13006 Campos Dr
+Austin, TX
+(30.438009, -97.740491)",30.438009,-97.740491
+"13-5048070
+13-5048073
+13-2911294",10/18/13 0:00,Fri,15:20,Evening,1609 Cripple Creek Dr,Yard/Courtyard,Outside,shots fired,White,'#FOF',Male,44,shot (injured only),rifle,5,3,Ofc. Cory Knop,ofc,White,Male,29,APD,2,0.223,rifle,4,1,No Billed by Grand Jury,"1609 Cripple Creek Dr
+Austin, TX
+(30.379773, -97.704626)",30.379773,-97.704626
+05-3080810,11/4/05 0:00,Fri,10:57,Day,1500 Spyglass Dr,Park,Outside,hostage/barricade,White,'#FOF',Male,36,shot (injured only),shotgun,1,1,Cpl. David Austin,cpl,White,Male,45,APD,21,0.308,rifle,1,1,No Billed by Grand Jury,"1500 Spyglass Dr
+Austin, TX
+(30.25866, -97.786731)",30.25866,-97.786731
+"13-5002063
+13-0141039",1/14/13 0:00,Mon,15:30,Evening,7112 Ed Bluestein Blvd SVRD SB,Parking Lot,Outside,shots fired,Black,'#F00',Male,51,None,gun,2,2,Ofc. Roosevelt Granderson,ofc,Black,Male,39,APD,12,0.4,semi-auto,9,0,No Billed by Grand Jury,"7112 Ed Bluestein Blvd SVRD SB
+Austin, TX
+(30.312799, -97.662825)",30.312799,-97.662825
+07-2950370,10/22/07 0:00,Mon,6:19,Day,6102 Club Terrace,Residence,Inside,warrant,Hispanic,'#0F0',Male,72,shot (injured only),gun,6,1,Det. Aaron Bishop,det,White,Male,43,APD,12,0.4,semi-auto,1,1,No Billed by Grand Jury,"6102 Club Terrace
+Austin, TX
+(30.234872, -97.700394)",30.234872,-97.700394
+01-922880197,10/15/01 0:00,Mon,3:27,Night,2611 Bee Caves Rd,Parking Lot,Outside,BOV,Hispanic,'#0F0',Male,Unknown,unk,,2,2,Ofc. Robert Barboza,ofc,Hispanic,Male,31,APD,6,9mm,semi-auto,2,0,No Billed by Grand Jury,"2611 Bee Caves Rd
+Austin, TX
+(30.267081, -97.785185)",30.267081,-97.785185
+"13-5017606
+13-1131720",4/23/13 0:00,Tues,20:40,Evening,706 Valdez St,Yard/Courtyard,Outside,disturbance,White,'#FOF',Male,54,killed,rifle,4,4,Ofc. Nicholas Moore,ofc,White,Male,30,APD,3,5.56,rifle,9,7,No Billed by Grand Jury,"706 Valdez St
+Austin, TX
+(30.234556, -97.69197)",30.234556,-97.69197
+07-0730438,3/14/07 0:00,Wed,8:12,Day,7112 Ed Bluestein Blvd SB #A,Parking Lot,Outside,disturbance,Black,'#F00',Male,27,None,knife,2,1,Ofc. Wayne Williamson,ofc,Black,Male,40,APD,9,0.4,semi-auto,3,0,not presented to grand jury (DA declined),"7112 Ed Bluestein Blvd SB #A
+Austin, TX
+(30.312799, -97.662825)",30.312799,-97.662825
+"13-5009062
+13-0600435",3/1/13 0:00,Fri,7:32,Day,10617 Lanshire Dr #B,Residence,Outside,shots fired,White,'#FOF',Male,70,killed,gun,1,1,Ofc. Johnathan Whitted,ofc,White,Male,33,APD,4,0.4,semi-auto,2,2,No Billed by Grand Jury,"10617 Lanshire Dr #B
+Austin, TX
+(30.38413, -97.708018)",30.38413,-97.708018
+01-922081328,7/27/01 0:00,Fri,20:33,Evening,1200 W Rundberg Ln,Street,Outside,onscene,Hispanic,'#0F0',Male,40,killed,hammer,1,1,Ofc. Steven McCurley,ofc,White,Male,26,APD,1,0.4,semi-auto,1,1,No Billed by Grand Jury,"1200 W Rundberg Ln
+Austin, TX
+(30.36697, -97.705077)",30.36697,-97.705077
+01-922880197,10/15/01 0:00,Mon,3:27,Night,2611 Bee Caves Rd,Parking Lot,Outside,BOV,Hispanic,'#0F0',Male,Unknown,unk,,2,2,,,,,,APD,6,9mm,,2,0,,"2611 Bee Caves Rd
+Austin, TX
+(30.267081, -97.785185)",30.267081,-97.785185
+"11-5038917
+11-2271207",8/15/11 0:00,Mon,16:50,Evening,3630 S Congress Ave,Street,Outside,robbery,White,'#FOF',Male,21,None,gun,3,2,Ofc. Branden Kunkel,ofc,White,Male,38,APD,3,0.4,semi-auto,2,,No Billed by Grand Jury,"3630 S Congress Ave
+Austin, TX
+(30.227169, -97.761643)",30.227169,-97.761643
+"13-5017606
+13-1131720",4/23/13 0:00,Tues,20:40,Evening,706 Valdez St,Yard/Courtyard,Outside,disturbance,White,'#FOF',Male,54,killed,rifle,4,4,Ofc. Matthew Henion,ofc,White,Male,28,APD,2,5.56,rifle,2,7,No Billed by Grand Jury,"706 Valdez St
+Austin, TX
+(30.234556, -97.69197)",30.234556,-97.69197
+"11-5023381
+11-1290071",5/9/11 0:00,Mon,1:03,Night,1919 Burton Dr,Yard/Courtyard,Outside,disturbance,Hispanic,'#0F0',Male,30,killed,gun,2,1,Ofc. Steven Peña,ofc,Hispanic,Male,27,APD,3,12 gauge,shotgun,3,3,No Billed by Grand Jury,"1919 Burton Dr
+Austin, TX
+(30.233849, -97.731703)",30.233849,-97.731703
+03-920050340,1/5/03 0:00,Sun,3:56,Night,305 Shant St,Parking Lot,Outside,NA - off duty,Black,'#F00',Male,36,shot (injured only),physical force,1,1,"Ofc. Dewayne ""Bruce"" Friar",ofc,White,Male,37,APD,5,9mm,semi-auto,1,1,No Billed by Grand Jury,"305 Shant St
+Austin, TX
+(30.169536, -97.793635)",30.169536,-97.793635
+14-2511591,9/8/14 0:00,Mon,19:38,Evening,13712 Maye Pl.,Residence,Outside,warrant,White,'#FOF',Male,24,killed,gun,3,3,Det. Philip Hogue,det,White,Male,41,APD,17,0.4,semi-auto,1,,unk - TCSO investigation,"13712 Maye Pl.
+Austin, TX
+(30.426212, -97.67312)",30.426212,-97.67312
+"10-5055642
+10-2680066",9/25/10 0:00,Sat,4:26,Night,7800 E Ben White Blvd WB,Street,Outside,check welfare,White,'#FOF',Male,26,killed (self-inflicted),gun,30,1,Cpl. Javier Bustos,cpl,Hispanic,Male,42,APD,11,0.45,semi-auto,1,1,No Billed by Grand Jury,"7800 E Ben White Blvd WB
+Austin, TX
+(30.219633, -97.689725)",30.219633,-97.689725
+07-0800024,3/21/07 0:00,Wed,0:19,Night,1205 Silverton Ct,Residence,Inside,disturbance,Hispanic,'#0F0',Male,50,shot (injured only),gun,1,1,Ofc. Roger Boudreau,ofc,White,Male,32,APD,4,0.4,semi-auto,8,2,No Billed by Grand Jury,"1205 Silverton Ct
+Austin, TX
+(30.385039, -97.66053)",30.385039,-97.66053
+"09-5072203
+09-3620161",12/28/09 0:00,Mon,2:54,Night,11815 Johnny Weismuller Ln,Residence,Outside,disturbance,Black,'#F00',Male,38,killed,gun,3,2,Ofc. Justin Berry,ofc,White,Male,24,APD,2,0.4,semi-auto,1,1,No Billed by Grand Jury,"11815 Johnny Weismuller Ln
+Austin, TX
+(30.151187, -97.843453)",30.151187,-97.843453
+"08-5059600
+08-3110300",11/6/08 0:00,Thur,3:56,Night,6603 Berkman Dr,Parking Lot,Outside,disturbance,Hispanic,'#0F0',Male,23,killed,gun,3,1,Ofc. Will Ray,ofc,White,Male,23,APD,1,0.4,semi-auto,4,2,No Billed by Grand Jury,"6603 Berkman Dr
+Austin, TX
+(30.319271, -97.689385)",30.319271,-97.689385
+"13-5052096
+13-3141499",11/10/13 0:00,Sun,21:17,Evening,2900 Cole St #204,Yard/Courtyard,Inside,check welfare,Hispanic,'#0F0',Male,30,shot (injured only),gun,9,2,Ofc. Adrien Chopin,ofc,White,Male,34,APD,2,0.223,rifle,2,1,No Billed by Grand Jury,30.2878759,-97.7255032,
