@@ -1,0 +1,221 @@
+#viz {
+  height: 500px;
+  width: 1000px;
+  padding: 10px;
+  margin: auto;
+}
+
+#viz2 {
+ height: 400px;
+ width: 600px;
+ margin: 0;
+ float: left;
+ margin-top: 40px;
+}
+
+.viz_holder {
+ padding: 40px 0 40px 0;
+}
+
+.viz_holder2 {
+ margin-top: 100px;
+}
+
+.caption {
+  margin: auto;
+  width: 70%;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.caption p {
+  width: 75%;
+  margin: 20px auto;
+  font-family: 'IBM Plex Serif,' serif;
+}
+
+.caption p a, .caption2 p a {
+  color: white;
+  border-bottom: 2px solid #F00;
+  text-decoration: none;
+}
+
+.caption img {
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
+.caption2 {
+  float: right;
+  width: 50%;
+  color: white;
+  font-size: 1.2rem;
+  margin-bottom: 50px;
+}
+
+.buttons, .buttons2, buttons {
+  width: 1000px;
+  margin: auto;
+  margin-top: 40px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.buttons ul, .buttons2 ul {
+   padding-left: 0;
+}
+
+.buttons ul li, .buttons2 ul li {
+  color: white;
+  border: 1px solid white;
+  text-decoration: none;
+  padding: 15px;
+  margin: 0 5px 30px 5px;
+  display: inline-block;
+}
+
+.buttons ul li:hover, .buttons2 ul li:hover {
+   background-color: red;
+   border: 1px solid red;
+}
+
+.buttons ul li:active, .buttons ul li.active, .buttons2 ul li:active, .buttons2 ul li.active {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+}
+
+body {
+   background-color: #222;
+   max-width: 1200px;
+   margin: auto;
+}
+
+.heading {
+ height: 100vh;
+  width: 100%;
+}
+
+.heading h1 {
+ color: white;
+ font-size: 7rem;
+ margin: auto;
+ width: 1000px;
+ font-weight: 400;
+ font-family: 'IBM Plex Serif', serif;
+  top: 250px;
+  left: 50px;
+  position: relative;
+  z-index: 3;
+}
+
+.heading p {
+ color: white;
+ text-align: left;
+ font-size: 1.8rem;
+  font-style: italic;
+  top: -205px;
+  width: 300px;
+  left: 700px;
+  font-family: 'IBM Plex Serif', serif;
+  position: relative;
+  z-index: 2;
+}
+
+#overlay {
+   top: -353px;
+  left: 705px;
+  color: red;
+  opacity: 1;
+  position: relative;
+  z-index: 1;
+}
+
+#overlay3 {
+   top: 53px;
+  left: 3px;
+  color: red;
+  opacity: 1;
+  position: relative;
+  z-index: 1;
+}
+
+h2 {
+ position: relative;
+  z-index: 4;
+}
+
+#byline {
+ postition: relative;
+  font-size: 1.3rem;
+  top: -350px;
+  left: 155px;
+}
+
+#byline a {
+ text-decoration: none;
+  color: #FFF;
+  border-bottom: 2px solid #f00;
+}
+
+
+#a1overlay {
+ postition: relative;
+  top: 95px;
+  color: blue;
+  left: 200px;
+  z-index: 1;
+}
+
+#a2overlay {
+ postition: relative;
+  top: -48px;
+  color: red;
+  left: 193px;
+  z-index: 2;
+}
+
+i.fa.fa-angle-down {
+  font-size: 50px;
+}
+
+#down-arrow {
+  width: 20px;
+  margin: auto;
+  padding-bottom: 20px;
+  color: white;
+  position: relative;
+  top: -240px;
+}
+
+.dropcap {
+  color: #F00;
+  font-size: 5rem;
+  float: left;
+  line-height: 60px;
+  padding: 10px 10px 10px 10px;
+  margin: 0 10px 5px 0;
+  border: 1px solid #F00;
+}
+
+#marshallImage {
+ width: 560px;
+  float: left;
+  margin-left: 20px;
+  color: #FFF;
+}
+
+#marshallImage a {
+color: #FFF;
+  text-decoration: none;
+  border-bottom: 2px solid #F00;
+}
+
+#marshallImage img {
+ width: 100%;
+}
+
+#final {
+ margin: 40px 0 40px 0;
+}
