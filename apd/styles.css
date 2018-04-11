@@ -26,12 +26,13 @@
   width: 70%;
   color: white;
   font-size: 1.2rem;
+  font-family: 'IBM Plex Serif,' serif;
 }
 
 .caption p {
   width: 75%;
   margin: 20px auto;
-  font-family: 'IBM Plex Serif,' serif;
+
 }
 
 .caption p a, .caption2 p a {
