@@ -27,7 +27,7 @@ body {
 
 #parallax {
   height: 500px;
-  background-image: url(https://www.connect.media/wp-content/uploads/2017/04/TexasStateUniversity.jpg);
+  background: url(https://www.connect.media/wp-content/uploads/2017/04/TexasStateUniversity.jpg) 50% 0 fixed;
   background-size: cover;
 }
 

@@ -1,0 +1,771 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  margin-bottom: 2em;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+}
+
+.page-marker {
+  border-bottom: 3px solid #5F4B8B;
+}
+
+.menu-bar {
+  padding-top: 1%;
+  border-bottom: 1px solid black;
+  margin-bottom: 2.5%;
+  height: 60px;
+}
+
+.menu-bar h1 {
+  float: left;
+  width: 400px;
+  margin: 0;
+  font-weight: 100;
+  font-size: 3em;
+}
+
+.menu-bar a {
+  text-decoration: none;
+  color: black;
+  padding-bottom: 2%;
+  transition-duration: .3s;
+}
+
+.menu-bar a:hover {
+  color: #DA7168;
+  border-bottom: 3px solid;
+  padding-bottom: 0;
+  transition-duration: .3s;
+}
+
+.menu-bar h1 a:hover {
+  border-bottom: 0;
+}
+
+.menu-bar nav {
+  float: right;
+  width: 300px;
+  text-align: right;
+  padding-top: 30px;
+}
+
+.menu-bar nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-bar nav ul li {
+  display: inline;
+  margin: 2%;
+}
+
+.contact-img {
+  width: 49%;
+  float: left;
+}
+
+.contact-img img {
+  width: 70%;
+  float: right;
+}
+
+.contact-text {
+  text-align: left;
+  width: 49%;
+  margin: auto;
+  float: right;
+  padding-top: 8%;
+  font-size: 1.2em;
+}
+
+.contact-text a {
+  color: #DA7168;
+  text-decoration: none;
+}
+
+.contact-text a:hover {
+  color: #5F4B8B;
+}
+
+/****************** portfolio *******************/
+
+.portfolio-menu a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.portfolio-menu a:hover {
+  color: #DA7168;
+}
+
+.portfolio-menu {
+  float: right;
+  width: 500px;
+  text-align: center;
+  clear: both;
+  position: fixed;
+  right: 79px;
+  bottom: 15px;
+}
+
+.portfolio-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px 5px 10px 5px;
+  background-color: #5F4B8B;
+}
+
+.portfolio-menu ul li {
+  display: inline;
+  margin: 0 3% 0 3%;
+}
+
+.section {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  clear: both;
+}
+
+.section h2 {
+  font-size: 3em;
+  font-weight: 100;
+  margin: 0;
+}
+
+.port-thumb img {
+  width: 100%;
+}
+
+.port-thumb img:hover {
+  opacity: .5;
+}
+
+.port-thumb {
+  width: 33%;
+  display: inline-block;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+.left-thumb {
+  float: left;
+}
+
+.right-thumb {
+  float: right;
+}
+
+.text-content {
+  width: 60%;
+  margin: auto;
+}
+
+.about-body-img {
+  width: 100%;
+}
+
+.about-image {
+  width: 50%;
+  float: left;
+  padding: 15px;
+  padding-top: 0;
+  padding-left: 0;
+  transition-duration: 1s;
+}
+
+.about-image:active {
+  transform: rotate(360deg);
+}
+
+.text-content h2 {
+  text-align: center;
+  font-size: 3em;
+  font-weight: 100;
+}
+
+.text-content p {
+  text-align: left;
+}
+
+.web span {
+  background-color: #5F4B8B;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  border-radius: 4px;
+}
+
+.journ span {
+  background-color: green;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  border-radius: 4px;
+}
+
+.photo span {
+  background-color: orange;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  border-radius: 4px;
+}
+
+.academics span {
+  background-color: blue;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  border-radius: 4px;
+}
+
+/************** project descriptions ****************/
+
+.project-text {
+  float: right;
+  width: 48%;
+  margin-bottom: 2.5%;
+}
+
+.project-text-2 {
+  float: left;
+  width: 48%;
+  margin-bottom: 2.5%;
+  text-align: right;
+}
+
+.project-text a {
+  text-decoration: none;
+  color: #DA7168;
+}
+
+.project-text a:hover {
+  color: #5F4B8B;
+}
+
+img.project-image-2 {
+  width: 48%;
+  float: right;
+  clear: both;
+  margin-bottom: 2.5%;
+}
+
+.project-description h2 {
+  text-align: center;
+  font-size: 4em;
+  font-weight: 100;
+}
+
+.project-description h3 {
+  font-size: 2em;
+  font-weight: 100;
+}
+
+img.project-image {
+  width: 48%;
+  float: left;
+  clear: both;
+  margin-bottom: 2.5%;
+}
+
+img.logo-redesign {
+  width: 48%;
+  float: right;
+  clear: both;
+  margin-bottom: 2.5%;
+}
+
+.logo-text {
+  float: left;
+  clear: both;
+  width: 48%;
+}
+
+.logo-text p {
+  float: left;
+}
+
+img#bbq {
+  clear: none;
+}
+
+/********************** index ***********************/
+
+.landing-image {
+  float: left;
+  width: 42%;
+  margin-right: 20px;
+}
+
+.landing-image img {
+  width: 100%;
+}
+
+.intro-text h1 {
+  font-weight: 300;
+  font-size: 2em;
+}
+
+#top-links {
+  padding-top: 15%;
+}
+
+#top-links a {
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
+
+#top-links a:hover {
+  background-color: red;
+}
+
+#top-links p {
+  text-align: left;
+}
+
+/****************** courses ******************/
+
+ul.class_synopsis  {
+  list-style: none;
+  padding-left: 0;
+}
+
+
+.section-header h2 {
+  margin-bottom: 20px;
+}
+
+.course-menu a {
+  text-decoration: none;
+  color: #5F4B8B;
+  font-size: 1.1em;
+  padding-bottom: 0.5%;
+}
+
+.course-menu a:hover {
+  color: #DA7168;
+}
+
+.course-menu nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.course-menu nav ul li {
+  display: inline;
+  margin: 2%;
+  padding-bottom: 0%;
+}
+
+.course-overview {
+  width: 50%;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.course-overview table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.course-overview th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+.course-overview tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.course-overview a {
+  text-decoration: none;
+  color: #DA7168;
+}
+
+.course-overview a:hover {
+  color: #5F4B8B;
+}
+
+.downloads a {
+  font-style: normal;
+  font-weight: 800;
+  background-color: #DA7168;
+  color: white;
+  padding: 0.5em;
+  display: inline-block;
+  margin-bottom: .5em;
+}
+
+.downloads {
+  float: left;
+}
+
+.links {
+  float: right;
+}
+
+.links a {
+  font-style: normal;
+  font-weight: 800;
+  background-color: #5F4B8B;
+  color: white;
+  padding: 0.5em;
+  display: inline-block;
+  margin-bottom: 0.5em;
+}
+
+.links a:hover {
+  color: #DA7168;
+}
+
+/****************** student sites *******************/
+
+.student-work-button {
+  background-color: #5F4B8B;
+  color: white;
+  text-align: center;
+  display: block;
+  width: 200px;
+  margin: auto;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.student-work-button:hover {
+  color: #DA7168;
+  cursor: pointer;
+}
+
+.student-sites {
+  text-align: justify;
+}
+
+.student-sites p {
+  background-color: #cdcdcd;
+  color: black;
+  text-align: center;
+  width: 100px;
+  margin: auto;
+  padding: 5px;
+  float: right;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.student-sites ul {
+  list-style: none;
+  padding-left: 0;
+  clear: both;
+}
+
+.student-sites ul li {
+  display: inline-grid;
+  margin: 5px;
+}
+
+.student-sites ul li a {
+  background-color: #DA7168;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+}
+.hidden {
+  display: none;
+}
+
+/****************** calendar *****************/
+
+#timestamp {
+  background-color: #DA7168;
+  font-weight: bold;
+  color: white;
+  border: 5px solid #5F4B8B;
+}
+
+.calendar {
+  width: 50%;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.calendar em {
+  font-style: normal;
+  font-weight: 800;
+  background-color: #5F4B8B;
+  color: white;
+  padding: 0.5em;
+  display: inline-block;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+}
+
+.calendar strong {
+  font-style: normal;
+  background-color: #DA7168;
+  color: white;
+  padding: 0.5em;
+  display: inline-block;
+  margin-bottom: .5em;
+}
+
+.calendar a.project {
+  color: #ffffff;
+}
+
+.calendar a.exercise {
+  color: #ffffff;
+}
+
+.calendar a.exercise:hover {
+  color: #DA7168;
+}
+
+.calendar table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: .8em;
+}
+
+.calendar table a {
+  text-decoration: none;
+  color: #DA7168;
+}
+
+.calendar table a:hover {
+  color: #5F4B8B;
+}
+
+.calendar th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+.calendar tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.calendar th {
+    background-color: #5F4B8B;
+    color: white;
+  }
+
+
+  .sidebar {
+    faklfgalskfjgnaslkdfn
+  }
+
+  .sidebar a {
+
+  }
+
+  /********************* logan *************************/
+
+  #portrait-page {
+    background-color: black;
+  }
+
+  #portrait-page img:hover {
+      opacity: 1;
+  }
+
+
+  /******************** responsive **********************/
+
+  @media screen and (max-width: 800px) {
+
+    .menu-bar {
+      height: 15%;
+      width: 100%;
+      padding-bottom: 3%;
+    }
+    .menu-bar h1 {
+      float: none;
+      margin: auto;
+      text-align: center;
+    }
+    .menu-bar nav {
+      float: none;
+      margin: auto;
+      width: 100%;
+      text-align: center;
+      padding-top: 5px;
+    }
+    .text-content {
+      width: 90%;
+    }
+    .course-overview {
+      width: 100%;
+    }
+    .calendar {
+      width: 100%;
+    }
+    .contact-img {
+      width: 49%;
+      float: left;
+    }
+    .contact-img img {
+      width: 100%;
+    }
+    .contact-text {
+      width: 49%;
+      padding-top: 9%;
+    }
+    .project-text {
+      width: 100%;
+      float: none;
+      text-align: left;
+      clear: both;
+    }
+    .project-text-2 {
+      width: 100%;
+      float: none;
+      text-align: left;
+      clear: both;
+    }
+    img.project-image, img.project-image-2 {
+      width: 100%;
+      float: none;
+    }
+  }
+
+  @media screen and (min-width: 501px) {
+    .about-image-mobile {
+      display: none;
+    }
+    .landing-image-mobile {
+      display: none;
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+
+    .container {
+      width: 100%;
+      margin: 0;
+    }
+    .menu-bar h1 {
+      width: 100%;
+    }
+    .section-header h2 {
+      font-size: 2em;
+    }
+    .text-content {
+      width: 100%;
+    }
+    .about-image {
+      display: none;
+    }
+    .about-image-mobile {
+      width: 100%;
+    }
+    .landing-image {
+      display: none;
+    }
+    .landing-image-mobile {
+      width: 100%
+    }
+    .intro-text h1 {
+      padding-top: 0;
+      text-align: center;
+    }
+    .text-content h2 {
+      display: none;
+    }
+    .port-thumb {
+      width: 95%;
+      margin: auto;
+      padding: 0;
+    }
+    .left-thumb {
+      float: none;
+    }
+    .right-thumb {
+      float: none;
+    }
+    .contact-img {
+      display: none;
+    }
+    .contact-text {
+      float: none;
+      width: 100%;
+      padding: 0;
+      font-size: 1em;
+    }
+    .downloads {
+      float: none;
+      text-align: center;
+    }
+    .links {
+      float: none;
+      text-align: center;
+    }
+    .student-sites ul li {
+      display: grid;
+      margin: 5px;
+      text-align: center;
+    }
+    .student-sites p {
+      margin-top: 5px;
+    }
+    .sidebar {
+      display: none;
+    }
+    #portrait {
+      width: 100%;
+    }
+    #top-links {
+      padding-top: 5%;
+      text-align: center;
+    }
+
+  }
+
+
+  /*
+=================================================
+              construction page
+=================================================
+  */
+
+body#wip {
+  background-color: #000;
+}
+
+#construction {
+  width: 100vw;
+  height: 100vh;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+#construction .under-construction ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 50px;
+}
+
+#construction .under-construction ul li {
+  display: inline;
+}
+
+#construction .under-construction ul li a {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #fff;
+  text-decoration: none;
+  color: #fff;
+}
+
+#construction .under-construction ul li a:hover {
+  background-color: #D00;
+  border: 1px solid #D00;
+}
